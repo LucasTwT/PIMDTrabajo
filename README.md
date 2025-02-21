@@ -1,4 +1,4 @@
-# trabajoPIMD
+# Trabajo PIMD
 Deeplearning proyect:
 ## Descripción del proytecto:
 Experimentar en la creación de redes neuronales convolucionales 
