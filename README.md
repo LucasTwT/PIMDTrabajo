@@ -1,6 +1,6 @@
 # Trabajo PIMD
 Deeplearning proyect:
-## Descripción del proytecto:
+## Descripción del proyecto:
 Experimentar en la creación de redes neuronales convolucionales 
 para taréas de clasificación
 
